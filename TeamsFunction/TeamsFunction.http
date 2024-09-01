@@ -1,0 +1,10 @@
+﻿@TeamsFunction_HostAddress = http://localhost:7187
+
+GET {{TeamsFunction_HostAddress}}/api/GetTeamsByCity
+
+###
+
+GET {{TeamsFunction_HostAddress}}/api/GetTeamsByCity?city=jacksonvillE
+
+
+###

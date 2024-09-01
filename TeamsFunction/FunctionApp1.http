@@ -1,8 +1,0 @@
-﻿@FunctionApp1_HostAddress = http://localhost:7187
-
-GET {{FunctionApp1_HostAddress}}/api/Function1
-
-###
-
-GET {{FunctionApp1_HostAddress}}/api/Function1?city=chiCago
-
